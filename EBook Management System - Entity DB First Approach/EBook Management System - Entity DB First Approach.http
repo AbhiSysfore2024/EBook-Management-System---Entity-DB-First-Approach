@@ -1,0 +1,6 @@
+@EBook_Management_System___Entity_DB_First_Approach_HostAddress = http://localhost:5007
+
+GET {{EBook_Management_System___Entity_DB_First_Approach_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
